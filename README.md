@@ -1,4 +1,5 @@
-### I'm Whitetiger. Nice to meet you ;D I'm Korean student who interests on Discord.py and Pythons (but not good at this things..).
+## I'm Whitetiger. Nice to meet you ;D
+### I'm Korean student who interests on Discord.py and Python.
 
 <!--
 **Whitetiger0423/Whitetiger0423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
