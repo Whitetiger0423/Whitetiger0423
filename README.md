@@ -1,9 +1,9 @@
 ## 👋 I'm Whitetiger. Nice to meet you ;D
 ### I'm Korean student who interests on Discord.py and Python.
 
-[![Whitetiger0423's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitetiger0423&count_private=true&show_icons=true&bg_color=111111&hide_border=false&title_color=ffffff&include_all_commits=true&custom_title=Whitetiger%27s%20GitHub%20Stats&text_color=ffffff)](https://github.com/whitetiger0423)
+[![Whitetiger0423's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitetiger0423&count_private=true&show_icons=true&bg_color=111111&hide_border=true&title_color=ffffff&include_all_commits=true&custom_title=Whitetiger%27s%20GitHub%20Stats&text_color=ffffff)](https://github.com/whitetiger0423)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=whitetiger0423&count_private=true&show_icons=true&bg_color=111111&hide_border=false&title_color=ffffff&include_all_commits=true&custom_title=Whitetiger%27s%20GitHub%20Stats&text_color=ffffff)](https://github.com/whitetiger0423)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=whitetiger0423&count_private=true&show_icons=true&bg_color=111111&hide_border=true&title_color=ffffff&include_all_commits=true&custom_title=Whitetiger%27s%20GitHub%20Stats&text_color=ffffff)](https://github.com/whitetiger0423)
 
 ~~The above templete is wrong - I use python in my team's project!!~~ Ah.. wait..  they are all private repo..? lol
 
