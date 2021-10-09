@@ -9,7 +9,7 @@
 
 - Learning: discord.py
 - Using: Windows 10, Raspbian Lite(For my raspberry pi 4B!)
-- Team Homepage: <http://whiteteam.kro.kr>
+- Team Homepage: <http://team-white.kro.kr>
 - Discord: Whitetiger#5230
 - Pronouns: He/Him or They/Them
 
