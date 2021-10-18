@@ -12,7 +12,7 @@
 - Team Homepage: <http://team-white.kro.kr>
 - CPU: Intel Core i5
 - GPU: GTX 1050Ti
-- Keyboard: Cox CK87 Brown Key
+- Keyboard: Cox CK87 Brown Key (from 2021.10.19)
 - Discord: Whitetiger#5230
 - Pronouns: He/Him or They/Them
 
