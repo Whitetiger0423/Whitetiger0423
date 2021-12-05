@@ -1,5 +1,5 @@
 ## 👋 I'm Whitetiger. Nice to meet you ;D
-### I'm Korean student who interests on ~~Discord.py~~ nextcord.py and Python.
+### I'm Korean student who interests on ~~Discord.py~~ pycord and Python.
 
 [![Whitetiger0423's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitetiger0423&count_private=true&show_icons=true&bg_color=111111&hide_border=true&title_color=ffffff&include_all_commits=true&custom_title=Whitetiger%27s%20GitHub%20Stats&text_color=ffffff)](https://github.com/whitetiger0423)
 
