@@ -8,8 +8,8 @@
 - CPU: Intel Core i5
 - GPU: GTX 1050Ti
 - Keyboard: Cox CK87 Brown Key(Gateron), Philips SPK8614 Blue Key
-- Discord: White.t.#5230
-- Pronouns: he/they
+- Discord: @sirodev
+- Pronouns: she/her
 
 
 <!--
