@@ -11,8 +11,12 @@
 
 🤖 [I develop Discord Bots](https://discord.gg/EEbNMAd9vv) like [WhiteBot](https://github.com/whitetiger0423/WhiteBot)(verified), [stopwiki](https://github.com/whitetiger0423/stopwiki), using Pycord.
 
-🌐 Visit [My Homepage](https://whitet.dev) for other info and feel free to ask something to me. Thanks!
+🌐 I'm interested in Wikimedia Project, and am also Administrator in Korean Wikipedia. I hope to "[make it easier for everyone to share what they know](https://wikimediafoundation.org/about/)".
+
+❓ You can visit [My Homepage](https://whitet.dev) for other informations, and feel free to ask something to me. Thanks!
 
 ![Sirodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitetiger0423&show_icons=true&theme=graywhite)
 
-> "Oh welch' ein Licht!" - [Le Silence de la mer](https://en.wikipedia.org/wiki/Le_Silence_de_la_mer)
+> "Oh welch' ein Licht!" — [Le Silence de la mer](https://en.wikipedia.org/wiki/Le_Silence_de_la_mer)
+
+> "Imagine a world in which every single person on the planet is given free access to the sum of all human knowledge. That's what we're doing." — Jimmy Wales
