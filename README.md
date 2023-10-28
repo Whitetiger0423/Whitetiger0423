@@ -1,28 +1,15 @@
-## 👋 I'm Whitetiger. Nice to meet you ;D
-### I'm Korean student who is interested in Discord.py(pycord) and Python.
+# Hello, World!
 
-[![Whitetiger0423's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitetiger0423&count_private=true&show_icons=true&bg_color=111111&hide_border=true&title_color=ffffff&include_all_commits=true&custom_title=Whitetiger%27s%20GitHub%20Stats&text_color=ffffff)](https://github.com/whitetiger0423)
+<a href="https://twitter.com/__White_t__" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=ffffff"/></a>
+<a href="mailto:teowhite0423@gmail.com" target="_blank"><img src="https://img.shields.io/badge/teowhite0423@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=ffffff"/></a>
+<a href="https://discordapp.com/users/763422064794796042" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=ffffff"/></a>
 
-- Learning & using: Python, C, pycord
-- Using computers: Windows 11, Raspbian Lite(Raspberry Pi 4B)
-- CPU: Intel Core i5
-- GPU: GTX 1050Ti
-- Keyboard: Cox CK87 Brown Key(Gateron), Philips SPK8614 Blue Key
-- Discord: @sirodev
-- Pronouns: she/her
+👋 안녕하세요! I'm **Siro**, a student developer from South Korea.
 
+📔 Mostly write codes with Python, and rarely with C. Planning to learn Typescript and Rust.
 
-<!--
-**Whitetiger0423/Whitetiger0423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 [I develop Discord Bots](https://discord.gg/EEbNMAd9vv) like [WhiteBot](https://github.com/whitetiger0423/WhiteBot)(verified), [stopwiki](https://github.com/whitetiger0423/stopwiki), using Pycord.
 
-Here are some ideas to get you started:
+![Sirodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitetiger0423&show_icons=true&theme=graywhite)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Oh welch' ein Licht!" - [Le Silence de la mer](https://en.wikipedia.org/wiki/Le_Silence_de_la_mer)
