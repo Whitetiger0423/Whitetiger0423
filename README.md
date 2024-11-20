@@ -1,6 +1,6 @@
 ## Hello, World!
 
-<a href="https://twitter.com/__White_t__" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=ffffff"/></a>
+<a href="https://twitter.com/sirodev" target="_blank"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=ffffff"/></a>
 <a href="mailto:admin@whitet.dev" target="_blank"><img src="https://img.shields.io/badge/admin@whitet.dev-EA4335?style=flat-square&logo=gmail&logoColor=ffffff"/></a>
 <a href="https://discordapp.com/users/763422064794796042" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=ffffff"/></a>
 
