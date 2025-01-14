@@ -15,6 +15,6 @@
 
 ❓ You can visit [My Homepage](https://whitet.dev) for other informations, and feel free to ask something to me. Thanks!
 
-![Sirodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitetiger0423&show_icons=true&theme=graywhite)
+![Sirodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whitetiger0423&show_icons=true&theme=graywhite)
 
 > "Oh welch' ein Licht!" — [Le Silence de la mer](https://en.wikipedia.org/wiki/Le_Silence_de_la_mer)
