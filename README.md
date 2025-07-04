@@ -1,6 +1,6 @@
 ## Hello, World!
 
-<a href="https://stella.place/@sirodev" target="_blank"><img src="https://img.shields.io/badge/@sirodev@stella.place-122043?style=flat-square&logo=misskey&logoColor=8378D4"/></a>
+<a href="https://serafuku.moe/@seol2" target="_blank"><img src="https://img.shields.io/badge/@seol2@serafuku.moe-2A3345?style=flat-square&logo=misskey&logoColor=ffffff"/></a>
 <a href="https://discordapp.com/users/763422064794796042" target="_blank"><img src="https://img.shields.io/badge/@sirodev-5865F2?style=flat-square&logo=discord&logoColor=ffffff"/></a>
 <a href="mailto:admin@whitet.dev" target="_blank"><img src="https://img.shields.io/badge/admin@whitet.dev-EA4335?style=flat-square&logo=gmail&logoColor=ffffff"/></a>
 <a href="https://ko.wikipedia.org/wiki/%EC%82%AC%EC%9A%A9%EC%9E%90:Whitetiger" target="_blank"><img src="https://img.shields.io/badge/[[User:Whitetiger]]-f8f8f8?style=flat-square&logo=Wikipedia&logoColor=000000"/></a>
